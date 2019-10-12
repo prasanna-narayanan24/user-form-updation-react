@@ -3,8 +3,8 @@ A react application to explore state management and live updation (no backend)
 
 ## Installation
 
-Install nodejs v12.5.0
-Install npm v6.9.0
+- Install nodejs v12.5.0
+- Install npm v6.9.0
 
 ```sh
 npm install -g create-react-app # installs latest stable release of react
