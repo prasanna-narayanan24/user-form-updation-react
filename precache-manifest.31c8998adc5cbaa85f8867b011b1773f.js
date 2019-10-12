@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3bc42ae224c66fe9b0e273646a39101c",
+    "revision": "73602fbee3f87d3fc96bea477be11529",
     "url": "/user-form-updation-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/user-form-updation-react/static/css/2.4e0883bb.chunk.css"
   },
   {
-    "revision": "6c5c5fd897b214de14f2",
+    "revision": "03b5b77ba43788c4b430",
     "url": "/user-form-updation-react/static/css/main.6f4abc01.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/user-form-updation-react/static/js/2.cfee7544.chunk.js"
   },
   {
-    "revision": "6c5c5fd897b214de14f2",
-    "url": "/user-form-updation-react/static/js/main.ec30fe33.chunk.js"
+    "revision": "03b5b77ba43788c4b430",
+    "url": "/user-form-updation-react/static/js/main.661b5f10.chunk.js"
   },
   {
     "revision": "54e9e37e0f76315abf94",
