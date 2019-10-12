@@ -47,7 +47,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <div className="row">
-          <div className="col-12 col-md-6 col-sm-3">
+          <div className="col-12 col-md-6 col-sm-3 form-wrapper border-right">
             <UserForm userInfo = {this.state.userProfile} actions = {this.actions} />
           </div>
           <div className="col-12 col-md-6 col-sm-9">

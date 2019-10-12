@@ -17,6 +17,13 @@ body {
   .user-body .tab-content h4 {width: 100%; margin: 10px 0; color: #333;}
 
 
+
+.form-wrapper {
+  height: 100vh;
+  overflow-y: auto;
+}
+
+
 .page-footer {
   position: fixed;
   bottom: 0;
