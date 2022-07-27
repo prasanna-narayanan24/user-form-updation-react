@@ -6,8 +6,8 @@ class ContactInformation extends React.Component {
             <React.Fragment>
                 <h4>Contact us</h4>
                 <div className="d-flex flex-column">
-                    <div className="d-block"><strong className="mr-3">Email:</strong>{this.props.info.email}</div>
-                    <div className="d-block"><strong className="mr-3">Phone:</strong>{this.props.info.phone}</div>
+                    <div id="profile-info-email" className="d-block"><strong className="mr-3">Email:</strong>{this.props.info.email}</div>
+                    <div id="profile-info-phone" className="d-block"><strong className="mr-3">Phone:</strong>{this.props.info.phone}</div>
                     <hr />
                     <a href={"https://"+this.props.info.link}>View page</a>
                 </div>
